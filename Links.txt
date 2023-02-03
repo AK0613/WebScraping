@@ -1,0 +1,162 @@
+[{'title': 'U.S. moves to bar noncompete agreements in labor contracts '
+           '(nytimes.com)',
+  'link': 'https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html',
+  'votes': 712},
+ {'title': 'How to get 1.5 TFlops of FP32 performance on a single M1 CPU core '
+           '(jott.live)',
+  'link': 'https://jott.live/markdown/1.5tflop_m1',
+  'votes': 294},
+ {'title': 'Twilio’s toll fraud problem (billychasen.medium.com)',
+  'link': 'https://billychasen.medium.com/twilios-toll-fraud-problem-28b3aef39243',
+  'votes': 286},
+ {'title': 'Moonwalkers: Shoes that make you walk faster (pre-order) '
+           '(shiftrobotics.io)',
+  'link': 'https://shiftrobotics.io/',
+  'votes': 279},
+ {'title': 'Show HN: Vim online editor using WebAssembly, storing files using '
+           'IndexedDB (vimonlineeditor.com)',
+  'link': 'https://www.vimonlineeditor.com/',
+  'votes': 229},
+ {'title': 'Why are antennas popping up over the Salt Lake City foothills? '
+           '(ksltv.com)',
+  'link': 'https://ksltv.com/516749/why-are-antennas-popping-up-all-over-the-foothills-salt-lake-city-seeks-to-solve-mystery/',
+  'votes': 225},
+ {'title': 'Cargo Cult Quantum Factoring (scottaaronson.blog)',
+  'link': 'https://scottaaronson.blog/?p=6957',
+  'votes': 205},
+ {'title': 'Yark: Advanced and easy YouTube archiver now stable '
+           '(github.com/owez)',
+  'link': 'https://github.com/Owez/yark',
+  'votes': 196},
+ {'title': 'The YC Founder Directory (ycombinator.com)',
+  'link': 'https://www.ycombinator.com/blog/the-yc-founder-directory',
+  'votes': 192},
+ {'title': "The skilled trades haven't caught as a career choice with Gen Z "
+           '(npr.org)',
+  'link': 'https://www.npr.org/2023/01/05/1142817339/america-needs-carpenters-and-plumbers-try-telling-that-to-gen-z',
+  'votes': 163},
+ {'title': 'AMD Announces 7950X3D, 7900X3D Upto 128MB L3 Cache (anandtech.com)',
+  'link': 'https://www.anandtech.com/show/18709/amd-unveils-ryzen-9-7950x3d-7900x3d-and-ryzen-7-7800x3d-up-to-128-mb-of-l3-cache-and-5-7-ghz-boost',
+  'votes': 151},
+ {'title': 'Show HN: ClickHouse-local – a small tool for serverless data '
+           'analytics (clickhouse.com)',
+  'link': 'https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local',
+  'votes': 139},
+ {'title': 'GoatCounter: Open-source hosted/self-hosted web analytics '
+           '(goatcounter.com)',
+  'link': 'https://www.goatcounter.com/',
+  'votes': 123},
+ {'title': 'Caltech to launch space solar power technology demo into orbit '
+           '(caltech.edu)',
+  'link': 'https://www.caltech.edu/about/news/caltech-to-launch-space-solar-power-technology-demo-into-orbit-in-january',
+  'votes': 106}]
+[{'title': 'How do I draw a pair of buttocks? (2014) '
+           '(mathematica.stackexchange.com)',
+  'link': 'https://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks',
+  'votes': 930},
+ {'title': 'Apple Books digital narration (authors.apple.com)',
+  'link': 'https://authors.apple.com/support/4519-digital-narration-audiobooks',
+  'votes': 266},
+ {'title': 'Having friends in HR is fine, but HR is not your friend '
+           '(cdoyle.me)',
+  'link': 'https://cdoyle.me/2023/01/05/having-friends-in-hr-is-fine-but-hr-is-not-your-friend/',
+  'votes': 263},
+ {'title': 'U.S. moves to seize $460M Robinhood stake linked to Sam '
+           'Bankman-Fried (cnn.com)',
+  'link': 'https://www.cnn.com/2023/01/05/investing/doj-seizes-robinhood-shares/index.html',
+  'votes': 218},
+ {'title': "Microfeatures I'd like to see in more languages "
+           '(buttondown.email/hillelwayne)',
+  'link': 'https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/',
+  'votes': 139},
+ {'title': 'OpenAI is in talks for tender offer that would value it at $29B '
+           '(wsj.com)',
+  'link': 'https://www.wsj.com/articles/chatgpt-creator-openai-is-in-talks-for-tender-offer-that-would-value-it-at-29-billion-11672949279',
+  'votes': 137},
+ {'title': 'Revue will shut down and all data will be deleted '
+           '(help.getrevue.co)',
+  'link': 'http://help.getrevue.co/en/articles/6819675-we-ve-made-the-difficult-decision-to-shut-down-revue',
+  'votes': 118},
+ {'title': 'The (Almost) Definitive 486DX/50 Article '
+           '(brassicgamer.blogspot.com)',
+  'link': 'http://brassicgamer.blogspot.com/2023/01/the-almost-definitive-486dx50-article.html',
+  'votes': 106}]
+[{'title': 'U.S. moves to bar noncompete agreements in labor contracts '
+           '(nytimes.com)',
+  'link': 'https://www.nytimes.com/2023/01/05/business/economy/ftc-noncompete.html',
+  'votes': 727},
+ {'title': 'How to get 1.5 TFlops of FP32 performance on a single M1 CPU core '
+           '(jott.live)',
+  'link': 'https://jott.live/markdown/1.5tflop_m1',
+  'votes': 299},
+ {'title': 'Twilio’s toll fraud problem (billychasen.medium.com)',
+  'link': 'https://billychasen.medium.com/twilios-toll-fraud-problem-28b3aef39243',
+  'votes': 293},
+ {'title': 'Moonwalkers: Shoes that make you walk faster (pre-order) '
+           '(shiftrobotics.io)',
+  'link': 'https://shiftrobotics.io/',
+  'votes': 280},
+ {'title': 'Why are antennas popping up over the Salt Lake City foothills? '
+           '(ksltv.com)',
+  'link': 'https://ksltv.com/516749/why-are-antennas-popping-up-all-over-the-foothills-salt-lake-city-seeks-to-solve-mystery/',
+  'votes': 239},
+ {'title': 'Show HN: Vim online editor using WebAssembly, storing files using '
+           'IndexedDB (vimonlineeditor.com)',
+  'link': 'https://www.vimonlineeditor.com/',
+  'votes': 235},
+ {'title': 'Cargo Cult Quantum Factoring (scottaaronson.blog)',
+  'link': 'https://scottaaronson.blog/?p=6957',
+  'votes': 206},
+ {'title': 'Yark: Advanced and easy YouTube archiver now stable '
+           '(github.com/owez)',
+  'link': 'https://github.com/Owez/yark',
+  'votes': 203},
+ {'title': 'The YC Founder Directory (ycombinator.com)',
+  'link': 'https://www.ycombinator.com/blog/the-yc-founder-directory',
+  'votes': 194},
+ {'title': "The skilled trades haven't caught as a career choice with Gen Z "
+           '(npr.org)',
+  'link': 'https://www.npr.org/2023/01/05/1142817339/america-needs-carpenters-and-plumbers-try-telling-that-to-gen-z',
+  'votes': 173},
+ {'title': 'AMD Announces 7950X3D, 7900X3D Upto 128MB L3 Cache (anandtech.com)',
+  'link': 'https://www.anandtech.com/show/18709/amd-unveils-ryzen-9-7950x3d-7900x3d-and-ryzen-7-7800x3d-up-to-128-mb-of-l3-cache-and-5-7-ghz-boost',
+  'votes': 154},
+ {'title': 'Show HN: ClickHouse-local – a small tool for serverless data '
+           'analytics (clickhouse.com)',
+  'link': 'https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local',
+  'votes': 144},
+ {'title': 'GoatCounter: Open-source hosted/self-hosted web analytics '
+           '(goatcounter.com)',
+  'link': 'https://www.goatcounter.com/',
+  'votes': 125},
+ {'title': 'Caltech to launch space solar power technology demo into orbit '
+           '(caltech.edu)',
+  'link': 'https://www.caltech.edu/about/news/caltech-to-launch-space-solar-power-technology-demo-into-orbit-in-january',
+  'votes': 109}]
+[{'title': 'How do I draw a pair of buttocks? (2014) '
+           '(mathematica.stackexchange.com)',
+  'link': 'https://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks',
+  'votes': 933},
+ {'title': 'Apple Books digital narration (authors.apple.com)',
+  'link': 'https://authors.apple.com/support/4519-digital-narration-audiobooks',
+  'votes': 268},
+ {'title': 'U.S. moves to seize $460M Robinhood stake linked to Sam '
+           'Bankman-Fried (cnn.com)',
+  'link': 'https://www.cnn.com/2023/01/05/investing/doj-seizes-robinhood-shares/index.html',
+  'votes': 218},
+ {'title': 'OpenAI is in talks for tender offer that would value it at $29B '
+           '(wsj.com)',
+  'link': 'https://www.wsj.com/articles/chatgpt-creator-openai-is-in-talks-for-tender-offer-that-would-value-it-at-29-billion-11672949279',
+  'votes': 140},
+ {'title': "Microfeatures I'd like to see in more languages "
+           '(buttondown.email/hillelwayne)',
+  'link': 'https://buttondown.email/hillelwayne/archive/microfeatures-id-like-to-see-in-more-languages/',
+  'votes': 139},
+ {'title': 'Revue will shut down and all data will be deleted '
+           '(help.getrevue.co)',
+  'link': 'http://help.getrevue.co/en/articles/6819675-we-ve-made-the-difficult-decision-to-shut-down-revue',
+  'votes': 118},
+ {'title': 'The (Almost) Definitive 486DX/50 Article '
+           '(brassicgamer.blogspot.com)',
+  'link': 'http://brassicgamer.blogspot.com/2023/01/the-almost-definitive-486dx50-article.html',
+  'votes': 106}]
